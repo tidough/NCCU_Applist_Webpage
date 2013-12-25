@@ -1,4 +1,6 @@
 NCCU_Applist_Webpage
 ============
-This is a Webpage shows the recommand apps list.
-This is a part of our SNA final.
+
+This is a webpage, which will rank the apps.
+
+This is a part of our SNA final project.
